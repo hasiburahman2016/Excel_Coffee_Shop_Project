@@ -10,7 +10,8 @@
 5. Total number of customer orders by location and month
 6. Best-selling product based on quantity and revenue
 
-![Dashboard Screenshoot](
+![Dashboard Screenshoot](https://github.com/hasiburahman2016/Excel_Coffee_Shop_Project/blob/main/Dashboard%20of%20Coffee%20shop%20sales.jpg)
+
 
 _Get started using GitHub in less than an hour._
 
