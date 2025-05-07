@@ -1,4 +1,16 @@
-# Introduction to GitHub
+# Coffee Shop Sales Data Analysis
+
+##Tool: Excel
+
+##Finding the Answer to the following queries:
+1. Sales trend over the days and the weeks
+2. Busy times of the Sales activities
+3. Total Sales revenue of each month
+4. Sales across the different store locations
+5. Total number of customer orders by location and month
+6. Best-selling product based on quantity and revenue
+
+![Dashboard Screenshoot](
 
 _Get started using GitHub in less than an hour._
 
