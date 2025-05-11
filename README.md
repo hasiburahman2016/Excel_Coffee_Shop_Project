@@ -14,7 +14,6 @@
 
 
 ## Cleaning and Transformation:
-* Data format correction
 * Date format correction
 * Trim columns to remove white spaces
 * Extract time from date and time
@@ -22,15 +21,15 @@
 * Add conditional columns to extract more meaningful values
 * Remove unnecessary characters
 * Finding the Hour from time
-* Fining the Month number from Date
-* Finding the day number
+* Fining the Month number from the Date
+* Finding the day number from the Date
 
 ## Creating tables, Slicers, Measures & Charts:
 * Creating Pivot tables on different criteria
 * Creating different charts to visualise different aspects of the  Data
 * Positioning Chart bars in ascending or descending order to make it more intuitive
 
-## Findings to the queries:
+## Findings of the queries:
 * Sales trend over the days and the weeks
  >  Monday is the busiest day of the week in general
  >  21 to 25 Week of the year are busiest
